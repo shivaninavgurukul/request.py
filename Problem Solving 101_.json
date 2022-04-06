@@ -1,0 +1,1146 @@
+{
+    "course": {
+        "id": "265",
+        "name": "Problem Solving 101",
+        "logo": "https",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "Some great problem solving challenges to keep you awake.",
+        "type": "html",
+        "course_type": "json",
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "7422",
+                "parent_exercise_id": null,
+                "course_id": "265",
+                "name": "Introduction",
+                "slug": "problemsolving101_json__Introduction_json",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Programmers har roz nayi nayi problems ko face karte hain. Har <span style=\"\">code</span> iss duniya mein koi na koi problem ko solve karne ke liye likha jaata hai. As programmers humein apne dimaag ko train karne ke zaroorat hai ki kaise hum nayi nayi problems ko asaani se solve kar payein. Iss course mein alag alag problems hain humne sovle karna hai."
+                    },
+                    {
+                        "component": "text",
+                        "value": "As programmers humein apne peers ke saath kaam karna bhi aana chaiye. Real world mein yeh ek bahot important skill hota hai. Waise bhi kabhi kabhi humara dimaag ek problem ko solve karte karte atak jaata hai. Iss case mein bahot important hota hai ki hum uss problem pe atke na reh jayein. Yahan apne peers ka help lena bahot important hai. Important yeh nahi hai ki hum saari problems ko apne aap solve karein, lekin yeh important hai kaise hum zyada se zyada problems ko samajh sakte hain."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Iss course mein alag alag sections hain aur har section mein aapko kuch number of problems ko solve karna hi karna hai. Lekin HackerRank pe bahot saari problems available hain. Jaise agar aapko Arrays wale section mein 5 easy aur 3 medium problems solve karni hai HackerRank pe kam se kam 50 probelms available hongi. Toh aap problems khud solve karne ki koshish kar sakte ho. Agar bahot zyada atakte ho, toh apne peers ki help le sakte ho. Bas aapko yeh ensure karna hai ki end mein aap 5 easy aur 3 medium problems kisi ki help ke bina solve kar sakte ho. Aap dusron ki help le sakte ho, but yeh bahot important hai ki aap kuch problems ekdum help liye bina solve kar sakte ho. Aapka asli test wahi hoga :)"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Problems solve karne ke saath saath yeh bhi important cheez hai ki aap apna thought process ache se explain kar pao. Finally jab aap industry mein kaam karoge toh sirf yeh important nahi hoga ki aap acha <span style=\"\">code</span> likh paa rahe ho, but yeh bhi important hoga ki aap <span style=\"\">code</span> ke baare mein kaise baat kar pa rahe ho. Ya aap apni interview mein apne concepts ko kitna acha explain kar paa rahe ho. Iss skill ko improve karne ke liye aapko problems ke baare mein videos banani hongi. Har problem ki 2 videos banani hai:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Pehli video mein Question ke baare mein explain karna hai.",
+                        "decoration": {
+                            "type": "number",
+                            "value": 1
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Dusri video mein pehle logical level pe solution explain karo, aur fir uska code explain karo. Code ka dry run kar ke dikha sakte ho.",
+                        "decoration": {
+                            "type": "number",
+                            "value": 2
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Total iss course mein 40 problems hai jo aapko solve karni hai. Aapko total mila kar <i>10</i> problems ke videos banane hain."
+                    }
+                ]
+            },
+            {
+                "id": "7377",
+                "parent_exercise_id": "7377",
+                "course_id": "265",
+                "name": "Introduction",
+                "slug": "problemsolving101_json__Warmup/Introduction_json",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Warmup/Introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Chalo kuch problems se warm up karna shuru karte hain."
+                    },
+                    {
+                        "component": "text",
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges\">Iss Link</a> pe jaake aap saari problems dekh sakte ho. WarmUp waali category mein <b>total 4</b> problems hain. Aapko unpe se koi bhi <b>3</b> problems solve karni hai."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7384",
+                "parent_exercise_id": "7377",
+                "course_id": "265",
+                "name": "WarmupQuestion1",
+                "slug": "problemsolving101_json__Warmup/WarmupQuestion1_json",
+                "sequence_num": 101,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Warmup/WarmupQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "WarmUp waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7385",
+                "parent_exercise_id": "7377",
+                "course_id": "265",
+                "name": "WarmupQuestion2",
+                "slug": "problemsolving101_json__Warmup/WarmupQuestion2_json",
+                "sequence_num": 102,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Warmup/WarmupQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "WarmUp waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7386",
+                "parent_exercise_id": "7377",
+                "course_id": "265",
+                "name": "WarmupQuestion3",
+                "slug": "problemsolving101_json__Warmup/WarmupQuestion3_json",
+                "sequence_num": 103,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Warmup/WarmupQuestion3.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "WarmUp waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7380",
+                "parent_exercise_id": "7380",
+                "course_id": "265",
+                "name": "Introduction",
+                "slug": "problemsolving101_json__Arrays/Introduction_json",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Arrays/Introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total arrays mein se aapko 2 questions solve karne hain. Saare \"Easy\" tag waale."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7394",
+                "parent_exercise_id": "7380",
+                "course_id": "265",
+                "name": "ArraysEasyQuestion1",
+                "slug": "problemsolving101_json__Arrays/ArraysEasyQuestion1_json",
+                "sequence_num": 201,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Arrays/ArraysEasyQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total arrays mein se aapko 2 questions solve karne hain."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Array waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7395",
+                "parent_exercise_id": "7380",
+                "course_id": "265",
+                "name": "ArraysEasyQuestion2",
+                "slug": "problemsolving101_json__Arrays/ArraysEasyQuestion2_json",
+                "sequence_num": 202,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Arrays/ArraysEasyQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Array waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7396",
+                "parent_exercise_id": "7380",
+                "course_id": "265",
+                "name": "ArraysBonus",
+                "slug": "problemsolving101_json__Arrays/ArraysBonus_json",
+                "sequence_num": 203,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Arrays/ArraysBonus.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Agar aapka man hai, toh koi bhi ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Medium</span> ya <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hard</span> category wala question solve kar sakte ho."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7378",
+                "parent_exercise_id": "7378",
+                "course_id": "265",
+                "name": "Introduction",
+                "slug": "problemsolving101_json__Dictionaries/Introduction_json",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Dictionaries/Introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total dictionaries mein se aapko 2 questions solve karne hain. Saare \"Easy\" tag waale."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7387",
+                "parent_exercise_id": "7378",
+                "course_id": "265",
+                "name": "DictionariesEasyQuestion1",
+                "slug": "problemsolving101_json__Dictionaries/DictionariesEasyQuestion1_json",
+                "sequence_num": 301,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Dictionaries/DictionariesEasyQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total dictionaries mein se aapko 2 questions solve karne hain."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Dictionary waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7388",
+                "parent_exercise_id": "7378",
+                "course_id": "265",
+                "name": "DictionariesEasyQuestion2",
+                "slug": "problemsolving101_json__Dictionaries/DictionariesEasyQuestion2_json",
+                "sequence_num": 302,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Dictionaries/DictionariesEasyQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total dictionaries mein se aapko 2 questions solve karne hain."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Dictionary waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7389",
+                "parent_exercise_id": "7378",
+                "course_id": "265",
+                "name": "DictionariesBonus",
+                "slug": "problemsolving101_json__Dictionaries/DictionariesBonus_json",
+                "sequence_num": 303,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Dictionaries/DictionariesBonus.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Agar aapka man hai, toh koi bhi ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Medium</span> ya <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hard</span> category wala question solve kar sakte ho."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7379",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "Introduction",
+                "slug": "problemsolving101_json__Implementation/Introduction_json",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/Introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>Implementation</b> mein se aapko 9 questions solve karne hain. 7 easy category ke, aur 2 medium ke."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7404",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "ImplementationEasyQuestion1",
+                "slug": "problemsolving101_json__Implementation/ImplementationEasyQuestion1_json",
+                "sequence_num": 401,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/ImplementationEasyQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>Implementation</b> mein se aapko 9 questions solve karne hain. 7 easy category ke, aur 2 medium ke."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Implementation waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7409",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "ImplementationEasyQuestion2",
+                "slug": "problemsolving101_json__Implementation/ImplementationEasyQuestion2_json",
+                "sequence_num": 402,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/ImplementationEasyQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Implementation waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7406",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "ImplementationEasyQuestion3",
+                "slug": "problemsolving101_json__Implementation/ImplementationEasyQuestion3_json",
+                "sequence_num": 403,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/ImplementationEasyQuestion3.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Implementation waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7414",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "ImplementationEasyQuestion4",
+                "slug": "problemsolving101_json__Implementation/ImplementationEasyQuestion4_json",
+                "sequence_num": 404,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/ImplementationEasyQuestion4.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Implementation waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7410",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "ImplementationEasyQuestion6",
+                "slug": "problemsolving101_json__Implementation/ImplementationEasyQuestion6_json",
+                "sequence_num": 405,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/ImplementationEasyQuestion6.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Implementation waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7411",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "ImplementationEasyQuestion7",
+                "slug": "problemsolving101_json__Implementation/ImplementationEasyQuestion7_json",
+                "sequence_num": 406,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/ImplementationEasyQuestion7.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Implementation waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7412",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "ImplementationMediumQuestion1",
+                "slug": "problemsolving101_json__Implementation/ImplementationMediumQuestion1_json",
+                "sequence_num": 407,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/ImplementationMediumQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Implementation waale section mein se koi bhi ek bhi ek \"Medium\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7413",
+                "parent_exercise_id": "7379",
+                "course_id": "265",
+                "name": "ImplementationMediumQuestion2",
+                "slug": "problemsolving101_json__Implementation/ImplementationMediumQuestion2_json",
+                "sequence_num": 408,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Implementation/ImplementationMediumQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Implementation waale section mein se koi bhi ek bhi ek \"Medium\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7383",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "Introduction",
+                "slug": "problemsolving101_json__Strings/Introduction_json",
+                "sequence_num": 500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/Introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b><span style=\"\">Strings</span></b> mein se aapko 10 questions solve karne hain. <b>7</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Easy</span> category ke aur <b>3</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Medium</span> category ke."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7398",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringsEasyQuestion1",
+                "slug": "problemsolving101_json__Strings/StringsEasyQuestion1_json",
+                "sequence_num": 501,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringsEasyQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7399",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringsEasyQuestion2",
+                "slug": "problemsolving101_json__Strings/StringsEasyQuestion2_json",
+                "sequence_num": 502,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringsEasyQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7397",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringsEasyQuestion3",
+                "slug": "problemsolving101_json__Strings/StringsEasyQuestion3_json",
+                "sequence_num": 503,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringsEasyQuestion3.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7401",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringsEasyQuestion4",
+                "slug": "problemsolving101_json__Strings/StringsEasyQuestion4_json",
+                "sequence_num": 504,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringsEasyQuestion4.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7400",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringsEasyQuestion5",
+                "slug": "problemsolving101_json__Strings/StringsEasyQuestion5_json",
+                "sequence_num": 505,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringsEasyQuestion5.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7402",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringsEasyQuestion6",
+                "slug": "problemsolving101_json__Strings/StringsEasyQuestion6_json",
+                "sequence_num": 506,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringsEasyQuestion6.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7403",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringsEasyQuestion7",
+                "slug": "problemsolving101_json__Strings/StringsEasyQuestion7_json",
+                "sequence_num": 507,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringsEasyQuestion7.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7405",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringMediumQuestion1",
+                "slug": "problemsolving101_json__Strings/StringMediumQuestion1_json",
+                "sequence_num": 508,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringMediumQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Medium\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7407",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringMediumQuestion2",
+                "slug": "problemsolving101_json__Strings/StringMediumQuestion2_json",
+                "sequence_num": 509,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringMediumQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Medium\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7408",
+                "parent_exercise_id": "7383",
+                "course_id": "265",
+                "name": "StringMediumQuestion3",
+                "slug": "problemsolving101_json__Strings/StringMediumQuestion3_json",
+                "sequence_num": 510,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Strings/StringMediumQuestion3.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b><span style=\"\">Strings</span></b> waale section mein se koi bhi ek bhi ek \"Medium\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "[Click here to see Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&amp;filters%5Bsubdomains%5D%5B%5D=<span style=\"\">strings</span>&amp;badge_type=problem-solving)"
+                    }
+                ]
+            },
+            {
+                "id": "7381",
+                "parent_exercise_id": "7381",
+                "course_id": "265",
+                "name": "Introduction",
+                "slug": "problemsolving101_json__MoreArrays/Introduction_json",
+                "sequence_num": 600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/MoreArrays/Introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>More Arrays</b> mein se aapko 7 questions solve karne hain. 5 easy category ke, aur 2 medium ke."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7415",
+                "parent_exercise_id": "7381",
+                "course_id": "265",
+                "name": "MoreArraysEasyQuestion1",
+                "slug": "problemsolving101_json__MoreArrays/MoreArraysEasyQuestion1_json",
+                "sequence_num": 601,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/MoreArrays/MoreArraysEasyQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>More Arrays</b> mein se aapko 7 questions solve karne hain. 5 easy category ke, aur 2 medium ke."
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>Arrays</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7416",
+                "parent_exercise_id": "7381",
+                "course_id": "265",
+                "name": "MoreArraysEasyQuestion2",
+                "slug": "problemsolving101_json__MoreArrays/MoreArraysEasyQuestion2_json",
+                "sequence_num": 602,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/MoreArrays/MoreArraysEasyQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>More Arrays</b> mein se aapko 7 questions solve karne hain. 5 easy category ke, aur 2 medium ke."
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>Arrays</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7417",
+                "parent_exercise_id": "7381",
+                "course_id": "265",
+                "name": "MoreArraysEasyQuestion3",
+                "slug": "problemsolving101_json__MoreArrays/MoreArraysEasyQuestion3_json",
+                "sequence_num": 603,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/MoreArrays/MoreArraysEasyQuestion3.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>More Arrays</b> mein se aapko 7 questions solve karne hain. 5 easy category ke, aur 2 medium ke."
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>Arrays</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7418",
+                "parent_exercise_id": "7381",
+                "course_id": "265",
+                "name": "MoreArraysEasyQuestion4",
+                "slug": "problemsolving101_json__MoreArrays/MoreArraysEasyQuestion4_json",
+                "sequence_num": 604,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/MoreArrays/MoreArraysEasyQuestion4.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>More Arrays</b> mein se aapko 7 questions solve karne hain. 5 easy category ke, aur 2 medium ke."
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>Arrays</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7419",
+                "parent_exercise_id": "7381",
+                "course_id": "265",
+                "name": "MoreArraysEasyQuestion5",
+                "slug": "problemsolving101_json__MoreArrays/MoreArraysEasyQuestion5_json",
+                "sequence_num": 605,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/MoreArrays/MoreArraysEasyQuestion5.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>More Arrays</b> mein se aapko 7 questions solve karne hain. 5 easy category ke, aur 2 medium ke."
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>Arrays</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7420",
+                "parent_exercise_id": "7381",
+                "course_id": "265",
+                "name": "MoreArraysMediumQuestion1",
+                "slug": "problemsolving101_json__MoreArrays/MoreArraysMediumQuestion1_json",
+                "sequence_num": 606,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/MoreArrays/MoreArraysMediumQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b>Arrays</b> waale section mein se koi bhi ek bhi ek \"Medium\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7421",
+                "parent_exercise_id": "7381",
+                "course_id": "265",
+                "name": "MoreArraysMediumQuestion2",
+                "slug": "problemsolving101_json__MoreArrays/MoreArraysMediumQuestion2_json",
+                "sequence_num": 607,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/MoreArrays/MoreArraysMediumQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b>Arrays</b> waale section mein se koi bhi ek bhi ek \"Medium\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7382",
+                "parent_exercise_id": "7382",
+                "course_id": "265",
+                "name": "Introduction",
+                "slug": "problemsolving101_json__Search/Introduction_json",
+                "sequence_num": 700,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Search/Introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>Search</b> mein se aapko 9 questions solve karne hain. Sirf <b>4</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Easy</span> category ke"
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=search\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7390",
+                "parent_exercise_id": "7382",
+                "course_id": "265",
+                "name": "SearchEasyQuestion1",
+                "slug": "problemsolving101_json__Search/SearchEasyQuestion1_json",
+                "sequence_num": 701,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Search/SearchEasyQuestion1.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Total <b>Search</b> mein se aapko 9 questions solve karne hain. Sirf <b>4</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Easy</span> category ke"
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>Search</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=search\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7391",
+                "parent_exercise_id": "7382",
+                "course_id": "265",
+                "name": "SearchEasyQuestion2",
+                "slug": "problemsolving101_json__Search/SearchEasyQuestion2_json",
+                "sequence_num": 702,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Search/SearchEasyQuestion2.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b>Search</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=search\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7392",
+                "parent_exercise_id": "7382",
+                "course_id": "265",
+                "name": "SearchEasyQuestion3",
+                "slug": "problemsolving101_json__Search/SearchEasyQuestion3_json",
+                "sequence_num": 703,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Search/SearchEasyQuestion3.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b>Search</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=search\">Click here to see Problems</a>"
+                    }
+                ]
+            },
+            {
+                "id": "7393",
+                "parent_exercise_id": "7382",
+                "course_id": "265",
+                "name": "SearchEasyQuestion4",
+                "slug": "problemsolving101_json__Search/SearchEasyQuestion4_json",
+                "sequence_num": 704,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101_json/Search/SearchEasyQuestion4.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "<b>Search</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=search\">Click here to see Problems</a>"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": "7698",
+            "parent_exercise_id": null,
+            "name": "Why-Navgurukul-and-life-at-campuses",
+            "slug": "residential-programmes_json__Why-Navgurukul-and-life-at-campuses_json",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes_json/Why-Navgurukul-and-life-at-campuses.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7695",
+            "parent_exercise_id": null,
+            "name": "Pune-Bangalore-Sarjapur",
+            "slug": "residential-programmes_json__Pune-Bangalore-Sarjapur_json",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes_json/Pune-Bangalore-Sarjapur.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7694",
+            "parent_exercise_id": null,
+            "name": "Dharamshala",
+            "slug": "residential-programmes_json__Dharamshala_json",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes_json/Dharamshala.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7697",
+            "parent_exercise_id": null,
+            "name": "Delhi",
+            "slug": "residential-programmes_json__Delhi_json",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes_json/Delhi.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7696",
+            "parent_exercise_id": null,
+            "name": "Tripura",
+            "slug": "residential-programmes_json__Tripura_json",
+            "sequence_num": 400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes_json/Tripura.json",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}

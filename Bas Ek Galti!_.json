@@ -1,0 +1,16 @@
+{
+    "course": {
+        "id": "186",
+        "name": "Bas Ek Galti!",
+        "logo": "https",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "Learning how to fix python errors",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": []
+    }
+}
